@@ -1,46 +1,64 @@
 <div align="center">
 
-# 👋 Hey, I'm Parth Thakur
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Parth%20Thakur&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Software%20Engineer%20in%20Progress%20🚀&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Frontend+Developer+%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%9A%80;Java+%7C+DSA+%7C+Backend+Developer;Building+Scalable+Digital+Products;Always+Learning+Something+New+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Digital+Experiences+That+Matter;Java+%7C+DSA+%7C+Backend+Development;Exploring+AI+%7C+Cloud+Computing+%7C+System+Design;Open+Source+Contributor+in+Progress;Always+Learning+Always+Building+🔥" />
 
-<img src="https://komarev.com/ghpvc/?username=ParthThakur29&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<br>
 
-<img src="https://img.shields.io/github/followers/ParthThakur29?logo=github&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/ParthThakur29?affiliations=OWNER&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ParthThakur29&label=Profile+Views&color=0891b2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/ParthThakur29?logo=github&style=for-the-badge&color=181717"/>
+
+<img src="https://img.shields.io/github/stars/ParthThakur29?affiliations=OWNER&style=for-the-badge&color=f59e0b"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CSE-Core%20CSE-blueviolet?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🌌 About Me
 
 ```yaml
-Name: Parth Thakur
-Education: B.Tech CSE (Core CSE)
-Current Focus:
+name: Parth Thakur
+role: Software Engineer in Progress 🚀
+education: B.Tech in Computer Science Engineering (Core CSE)
+
+currently_learning:
   - Java
-  - Data Structures & Algorithms
+  - Data Structures and Algorithms
   - Backend Development
   - System Design
 
-Working On:
-  - Startup Bridge 🚀
+currently_building:
+  - Startup Bridge
 
-Interests:
+interests:
   - Software Engineering
   - Artificial Intelligence
   - Cloud Computing
   - Research
   - Product Development
 
-Open For:
-  - Internships
-  - Open Source Contributions
-  - Collaborations
+goals_2026:
+  - Crack a Software Engineering Internship
+  - Become a Full Stack Developer
+  - Contribute to Open Source
+  - Build Products Used By Real People
+
+fun_fact:
+  - Ctrl + C and Ctrl + V are still my senior developers 😆
 ```
 
----
+<div align="center">
+
+### ⚡ Building Today For The Opportunities Of Tomorrow ⚡
+
+</div>
+
 
 ## 🌐 Connect With Me
 
