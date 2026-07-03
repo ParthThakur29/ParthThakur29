@@ -45,10 +45,25 @@ Open For:
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/parth-thakur-aa2a4439a/"/></a>
-<a href="YOUR_GITHUB_URL"><img src="https://github.com/ParthThakur29"/></a>
-<a href="YOUR_INSTAGRAM_URL"><img src="https://www.instagram.com/parthakur29?igsh=ZXBjcWFvYjR3a2g5&utm_source=qr"/></a>
-<a href="YOUR_LEETCODE_URL"><img src="https://leetcode.com/u/Parththakur29/" width="48"></a>
+<a href="https://www.linkedin.com/in/parth-thakur-aa2a4439a/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/ParthThakur29" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.instagram.com/parthakur29?igsh=ZXBjcWFvYjR3a2g5&utm_source=qr" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://leetcode.com/u/Parththakur29/" target="_blank">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48" />
+</a>
+</p>
+
+<p align="center">
+📫 <b>Email:</b> parththakur2910@gmail.com
 </p>
 
 <p align="center">
