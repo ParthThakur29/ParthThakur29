@@ -1,77 +1,95 @@
 <div align="center">
 
-# Hey there 👋 I'm Parth Thakur
+# 👋 Hey, I'm Parth Thakur
 
-### 🚀 CSE Undergrad (Core CSE) • Frontend Developer • Aspiring Software Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Frontend+Developer+%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%9A%80;Java+%7C+DSA+%7C+Backend+Developer;Building+Scalable+Digital+Products;Always+Learning+Something+New+%F0%9F%94%A5" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Digital+Experiences;Learning+Java+%7C+DSA+%7C+Backend+Development;Exploring+AI+%7C+Cloud+Computing+%7C+System+Design;Open+to+Internships+and+Collaborations" />
+<img src="https://komarev.com/ghpvc/?username=ParthThakur29&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/ParthThakur29?logo=github&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/ParthThakur29?affiliations=OWNER&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-💻 Passionate about building scalable and user-centric digital products
+```yaml
+Name: Parth Thakur
+Education: B.Tech CSE (Core CSE)
+Current Focus:
+  - Java
+  - Data Structures & Algorithms
+  - Backend Development
+  - System Design
 
-🌱 Currently learning **Java, DSA, Backend Development, Node.js, and System Design**
+Working On:
+  - Startup Bridge 🚀
 
-🚀 Working on **Startup Bridge** *(Currently in Development)*
+Interests:
+  - Software Engineering
+  - Artificial Intelligence
+  - Cloud Computing
+  - Research
+  - Product Development
 
-🤝 Looking to collaborate on **Open Source Projects**
-
-🎯 Interested in **Software Engineering, AI, Research, Cloud Computing, Product Development, and HR**
-
-💬 Ask me about **Frontend Development, UI/UX, Hackathons, and Graphic Design**
-
-⚡ Fun Fact: **Ctrl + C and Ctrl + V are still my strongest teammates 😆**
+Open For:
+  - Internships
+  - Open Source Contributions
+  - Collaborations
+```
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="YOUR_GITHUB_LINK"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="YOUR_INSTAGRAM_LINK"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="YOUR_LEETCODE_LINK"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="YOUR_GITHUB_URL"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="YOUR_INSTAGRAM_URL"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="YOUR_LEETCODE_URL"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"></a>
 </p>
 
 <p align="center">
-📧 <b>parththakur2910@gmail.com</b>
+📫 <b>parththakur2910@gmail.com</b>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# ⚒️ Tech Arsenal
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php"/>
 
-### Frontend
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,bootstrap"/>
 
-### Backend & Database
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
 
-### Tools & Cloud
+### Database
 
-<img src="https://skillicons.dev/icons?i=git,github,aws,gcp,figma,linux" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase"/>
+
+### Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,linux,figma,vscode"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParthThakur29&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParthThakur29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthThakur29&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -81,22 +99,68 @@
 
 ---
 
-## 🏆 Current Goals
+# 🏆 GitHub Trophies
 
-🎯 Master Data Structures and Algorithms
+<div align="center">
 
-🚀 Become a Strong Full Stack Developer
+<img src="https://github-profile-trophy.vercel.app/?username=ParthThakur29&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-🌍 Contribute to Open Source Projects
+</div>
 
-💼 Secure a Software Engineering Internship
+---
 
-💡 Build products that solve real-world problems
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthThakur29&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 2026 Mission Board
+
+☑ Master DSA in Java
+
+☑ Become a Full Stack Developer
+
+☑ Contribute to Open Source
+
+☑ Secure a Software Engineering Internship
+
+☑ Build Products Used by Thousands
+
+☑ Explore AI and Cloud Technologies
+
+---
+
+# 🎮 Fun Facts
+
+🎮 Gaming helps me debug life
+
+☕ Turning caffeine into code since day one
+
+🧠 Learning never stops
+
+⌨️ Ctrl + C and Ctrl + V are still my most loyal teammates
 
 ---
 
 <div align="center">
 
-### "Code. Learn. Build. Repeat." 🔥
+## ⚡ Code • Learn • Build • Repeat ⚡
+
+*"Great products are built one commit at a time."*
 
 </div>
