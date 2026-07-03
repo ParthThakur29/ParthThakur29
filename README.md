@@ -1,97 +1,166 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:38bdf8&text=Parth%20Thakur&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20in%20Progress%20🚀&descAlignY=60"/>
+# 👋 Hey, I'm Parth Thakur
 
-# 👋 Hey, I'm Parth
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Frontend+Developer+%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%9A%80;Java+%7C+DSA+%7C+Backend+Developer;Building+Scalable+Digital+Products;Always+Learning+Something+New+%F0%9F%94%A5" />
 
-### 💻 Frontend Developer • ☕ Java Learner • 🚀 Future Software Engineer
+<img src="https://komarev.com/ghpvc/?username=ParthThakur29&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+for+the+web;Learning+DSA+and+Backend+Development;Exploring+AI+and+Cloud+Computing;Always+shipping+something+new..." />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ParthThakur29&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/ParthThakur29?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/ParthThakur29?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/ParthThakur29?logo=github&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/ParthThakur29?affiliations=OWNER&style=for-the-badge" />
 
 </div>
 
 ---
 
-## ⚡ About Me
+# 💫 About Me
 
 ```yaml
-name: Parth Thakur
-education: B.Tech CSE
-location: India 🇮🇳
-
-currently_learning:
+Name: Parth Thakur
+Education: B.Tech CSE (Core CSE)
+Current Focus:
   - Java
   - Data Structures & Algorithms
   - Backend Development
   - System Design
 
-currently_building:
+Working On:
   - Startup Bridge 🚀
 
-interests:
+Interests:
   - Software Engineering
   - Artificial Intelligence
   - Cloud Computing
   - Research
   - Product Development
 
-fun_fact:
-  - Ctrl + C and Ctrl + V are my senior developers
+Open For:
+  - Internships
+  - Open Source Contributions
+  - Collaborations
 ```
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,linux,figma,firebase,aws&perline=8" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ParthThakur29&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthThakur29&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthThakur29&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ParthThakur29&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/ParthThakur29"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://www.linkedin.com/in/parth-thakur-aa2a4439a/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://www.instagram.com/parthakur29/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="https://leetcode.com/parththakur29/"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="YOUR_GITHUB_URL"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="YOUR_INSTAGRAM_URL"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="YOUR_LEETCODE_URL"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"></a>
 </p>
+
+<p align="center">
+📫 <b>parththakur2910@gmail.com</b>
+</p>
+
+---
+
+# ⚒️ Tech Arsenal
 
 <div align="center">
 
-### ⚡ "Code • Learn • Build • Repeat"
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,bootstrap"/>
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase"/>
+
+### Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,linux,figma,vscode"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1e293b,100:38bdf8"/>
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParthThakur29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthThakur29&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthThakur29&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ParthThakur29&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthThakur29&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 2026 Mission Board
+
+☑ Master DSA in Java
+
+☑ Become a Full Stack Developer
+
+☑ Contribute to Open Source
+
+☑ Secure a Software Engineering Internship
+
+☑ Build Products Used by Thousands
+
+☑ Explore AI and Cloud Technologies
+
+---
+
+# 🎮 Fun Facts
+
+🎮 Gaming helps me debug life
+
+☕ Turning caffeine into code since day one
+
+🧠 Learning never stops
+
+⌨️ Ctrl + C and Ctrl + V are still my most loyal teammates
+
+---
+
+<div align="center">
+
+## ⚡ Code • Learn • Build • Repeat ⚡
+
+*"Great products are built one commit at a time."*
+
+</div>
