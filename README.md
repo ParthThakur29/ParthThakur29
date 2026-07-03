@@ -62,9 +62,7 @@ Open For:
 </a>
 </p>
 
-<p align="center">
-📫 <b>Email:</b> parththakur2910@gmail.com
-</p>
+
 
 <p align="center">
 📫 <b>parththakur2910@gmail.com</b>
