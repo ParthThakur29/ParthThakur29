@@ -45,10 +45,10 @@ Open For:
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="YOUR_GITHUB_URL"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="YOUR_INSTAGRAM_URL"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="YOUR_LEETCODE_URL"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/parth-thakur-aa2a4439a/"/></a>
+<a href="YOUR_GITHUB_URL"><img src="https://github.com/ParthThakur29"/></a>
+<a href="YOUR_INSTAGRAM_URL"><img src="https://www.instagram.com/parthakur29?igsh=ZXBjcWFvYjR3a2g5&utm_source=qr"/></a>
+<a href="YOUR_LEETCODE_URL"><img src="https://leetcode.com/u/Parththakur29/" width="48"></a>
 </p>
 
 <p align="center">
