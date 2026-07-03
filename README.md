@@ -1,228 +1,97 @@
-# 🌌 Welcome to My Digital Universe
-
 <div align="center">
 
-<img src="YOUR_CUSTOM_BANNER_GIF_OR_IMAGE">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:38bdf8&text=Parth%20Thakur&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20in%20Progress%20🚀&descAlignY=60"/>
 
-# 👋 Hey, I'm Parth Thakur
+# 👋 Hey, I'm Parth
 
-### 🚀 CSE Undergrad • Frontend Developer • Aspiring Software Engineer
+### 💻 Frontend Developer • ☕ Java Learner • 🚀 Future Software Engineer
 
-<img src="TYPING_ANIMATION_URL">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+for+the+web;Learning+DSA+and+Backend+Development;Exploring+AI+and+Cloud+Computing;Always+shipping+something+new..." />
 
 <br>
 
-<img src="PROFILE_VIEWS_BADGE">
-<img src="FOLLOWERS_BADGE">
-<img src="STARS_BADGE">
-<img src="COMMITS_BADGE">
-
-<br><br>
-
-*"Building products that people love and technology that matters."*
+<img src="https://komarev.com/ghpvc/?username=ParthThakur29&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/ParthThakur29?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/ParthThakur29?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ⚡ About Me
+## ⚡ About Me
 
 ```yaml
 name: Parth Thakur
-role: Software Engineer in Progress 🚀
+education: B.Tech CSE
+location: India 🇮🇳
 
 currently_learning:
   - Java
-  - DSA
+  - Data Structures & Algorithms
   - Backend Development
   - System Design
-  - Cloud Computing
 
 currently_building:
-  - Startup Bridge
+  - Startup Bridge 🚀
 
 interests:
   - Software Engineering
   - Artificial Intelligence
+  - Cloud Computing
   - Research
   - Product Development
-  - Human Resources
 
-looking_for:
-  - Internships
-  - Open Source Contributions
-  - Collaborations
+fun_fact:
+  - Ctrl + C and Ctrl + V are my senior developers
 ```
 
 ---
 
-# 🌠 Developer Journey
+## 🛠 Tech Stack
 
-🧠 Learning something new every single day
-
-💻 Turning ideas into products and products into experiences
-
-🚀 Building towards becoming a world-class software engineer
-
-🌍 Interested in solving real-world problems using technology
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,linux,figma,firebase,aws&perline=8" />
+</p>
 
 ---
 
-# 🎵 Currently Playing on Apple Music
+## 📊 GitHub Analytics
 
 <div align="center">
 
-🍎 Music fuels my code sessions
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ParthThakur29&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🎧 Dynamic Apple Music widget showing:
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthThakur29&layout=compact&theme=tokyonight&hide_border=true"/>
 
-• Currently Playing Song
-• Artist Name
-• Album Cover
-• Listening Status
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthThakur29&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# ☕ Coding Fuel
-
-```text
-Coffee ██████████ 100%
-
-Motivation ████████████ 120%
-
-Sleep ███░░░░░░░░ 30%
-
-Bug Fixing ███████████████ 200%
-```
-
----
-
-# 🛠 Tech Arsenal
+## 🏆 Achievements
 
 <div align="center">
 
-### Languages
-
-JAVA • C++ • C • Python • JavaScript • PHP
-
-### Frontend
-
-HTML • CSS • React • Tailwind • Bootstrap
-
-### Backend
-
-Node.js • Express.js • REST APIs
-
-### Databases
-
-MongoDB • MySQL • PostgreSQL • Firebase
-
-### Tools
-
-Git • GitHub • Linux • AWS • GCP • Figma • VS Code
+<img src="https://github-profile-trophy.vercel.app/?username=ParthThakur29&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 🌐 Connect With Me
 
-⭐ GitHub Stats
-
-🔥 Contribution Streak
-
-📈 Activity Graph
-
-🏆 GitHub Trophies
-
-🐍 Contribution Snake Animation
-
-📅 Weekly Development Breakdown
-
-⌚ Coding Hours Dashboard
-
-📊 Language Usage Statistics
-
----
-
-# 🚀 Featured Projects
-
-### 🌉 Startup Bridge
-
-Connecting ideas, founders, and opportunities.
-
-### 🏗 AI Construction Tender Platform
-
-Smart bidding, AI estimation, escrow protection, and market insights.
-
-### 🏥 Contactless Nurse Calling System
-
-Healthcare IoT solution using ESP32 and computer vision.
-
-### 🎓 VillageVoice
-
-Breaking language barriers using NLP and AI.
-
----
-
-# 🌍 Connect With Me
-
-💼 LinkedIn
-
-📸 Instagram
-
-💻 GitHub
-
-🧩 LeetCode
-
-📧 Email
-
-🎵 Apple Music
-
----
-
-# 🏆 2026 Mission Board
-
-⬜ Master DSA
-
-⬜ Become a Full Stack Developer
-
-⬜ Contribute to Open Source
-
-⬜ Secure an Internship
-
-⬜ Build a Product Used by Thousands
-
-⬜ Learn Advanced System Design
-
-⬜ Explore Artificial Intelligence
-
-⬜ Explore Cloud Computing
-
-⬜ Build My Startup
-
----
-
-# 🎮 Fun Zone
-
-🎮 Gamer by night
-
-☕ Developer by day
-
-🐛 Professional bug creator and bug destroyer
-
-⌨️ Ctrl + C and Ctrl + V remain undefeated teammates
-
----
+<p align="center">
+<a href="https://github.com/ParthThakur29"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/in/parth-thakur-aa2a4439a/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.instagram.com/parthakur29/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://leetcode.com/parththakur29/"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"></a>
+</p>
 
 <div align="center">
 
-## 🌌 "Dream Big. Build Bigger."
-
-### ⚡ Code • Learn • Build • Repeat ⚡
-
-<img src="ANIMATED_DIVIDER">
+### ⚡ "Code • Learn • Build • Repeat"
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1e293b,100:38bdf8"/>
