@@ -132,7 +132,6 @@ fun_fact:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ParthThakur29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c4b5fd" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthThakur29&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a855f7&currStreakLabel=c4b5fd" width="48%"/>
 
 </div>
 
