@@ -82,7 +82,7 @@ fun_fact:
 </p>
 
 <p align="center">
-📫 &nbsp;<b>parththakur2910@gmail.com</b>
+📫 &nbsp;<b>parththakur2930@gmail.com</b>
 </p>
 
 <div align="center">
