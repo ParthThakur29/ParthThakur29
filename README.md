@@ -96,27 +96,19 @@ fun_fact:
 **Languages**
 <br>
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php"/>
-
 <br><br>
-
 **Frontend Development**
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,bootstrap"/>
-
 <br><br>
-
 **Backend Development**
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
-
 <br><br>
-
 **Database**
 <br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase"/>
-
 <br><br>
-
 **Cloud & Tools**
 <br>
 <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,linux,figma,vscode"/>
