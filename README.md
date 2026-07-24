@@ -127,13 +127,6 @@ fun_fact:
 
 </div>
 
-## 📈 &nbsp;Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthThakur29&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c4b5fd"/>
-
-</div>
 
 
 ## 🚀 &nbsp;2026 Mission Board
