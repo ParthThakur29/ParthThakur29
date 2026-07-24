@@ -135,17 +135,6 @@ fun_fact:
 
 </div>
 
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
 
 ## 🚀 &nbsp;2026 Mission Board
 
