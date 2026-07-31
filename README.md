@@ -34,7 +34,7 @@ currently_learning:
   - System Design
 
 currently_building:
-  - Startup Bridge
+  -  Bridge
 
 interests:
   - Software Engineering
