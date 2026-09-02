@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,15&text=Parth%20Thakur&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Software%20Engineer%20in%20Progress%20🚀&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,15&text=Parth%20Thakur&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38& Developer%20%7C%20Software%20Engineer%20in%20Progress%20🚀&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Digital+Experiences+That+Matter;Java+%7C+DSA+%7C+Backend+Development;Exploring+AI+%7C+Cloud+Computing+%7C+System+Design;Open+Source+Contributor+in+Progress;Always+Learning+Always+Building+🔥" />
 
