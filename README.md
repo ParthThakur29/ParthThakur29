@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,15&text=Parth%20Thakur&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38& Developer%20%7C%20Software%20Engineer%20in%20Progress%20🚀&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,15&text=Parth%20Thakur&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Software%20Engineer%20in%20Progress%20🚀&descAlignY=58" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Digital+Experiences+That+Matter;Java+%7C+DSA+%7C+Backend+Development;Exploring+AI+%7C+Cloud+Computing+%7C+System+Design;Open+Source+Contributor+in+Progress;Always+Learning+Always+Building+🔥" />
 
@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-## 🌌 &nbsp;About Me
+## 🌌  About Me
 
 ```yaml
 name: Parth Thakur
@@ -34,7 +34,7 @@ currently_learning:
   - System Design
 
 currently_building:
-  -  Bridge
+  - Bridge
 
 interests:
   - Software Engineering
@@ -55,30 +55,35 @@ fun_fact:
 
 <div align="center">
 
-### ⚡ &nbsp;Building Today For The Opportunities Of Tomorrow &nbsp;⚡
+### ⚡  Building Today For The Opportunities Of Tomorrow  ⚡
 
 </div>
 
 <br>
 
-## 🌐 &nbsp;Connect With Me
+## 🌐  Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/parth-thakur-aa2a4439a/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;
+
 <a href="https://github.com/ParthThakur29" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/parthakur29?igsh=ZXBjcWFvYjR3a2g5&utm_source=qr" target="_blank">
+
+<a href="https://www.instagram.com/parthakur29/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 &nbsp;
+
 <a href="https://leetcode.com/u/Parththakur29/" target="_blank">
   <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48" />
 </a>
+
 </p>
 
 <p align="center">
@@ -89,70 +94,90 @@ fun_fact:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-## ⚒️ &nbsp;Tech Arsenal
+## ⚒️  Tech Arsenal
 
 <div align="center">
 
-**Languages**
-<br>
+### 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php"/>
+
 <br><br>
-**Frontend Development**
-<br>
+
+### 🎨 Frontend Development
+
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,bootstrap"/>
+
 <br><br>
-**Backend Development**
-<br>
+
+### ⚙️ Backend Development
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
+
 <br><br>
-**Database**
-<br>
+
+### 🗄️ Database
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase"/>
+
 <br><br>
-**Cloud & Tools**
-<br>
+
+### ☁️ Cloud & Tools
+
 <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,linux,figma,vscode"/>
 
 </div>
+
+<br>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-## 📊 &nbsp;GitHub Analytics
+## 📊  GitHub Analytics
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ParthThakur29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthThakur29&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a855f7&currStreakLabel=c4b5fd" width="48%"/>
 
 </div>
 
+<br>
 
-
-## 🚀 &nbsp;2026 Mission Board
+## 🚀  2026 Mission Board
 
 <table align="center">
 <tr>
-<td>✅ Master DSA in Java</td>
-<td>✅ Become a Full Stack Developer</td>
+<td>🔄 Master DSA in Java</td>
+<td>🔄 Become a Full Stack Developer</td>
 </tr>
 <tr>
-<td>✅ Contribute to Open Source</td>
-<td>✅ Secure a Software Engineering Internship</td>
+<td>🔄 Contribute to Open Source</td>
+<td>🔄 Secure a Software Engineering Internship</td>
 </tr>
 <tr>
-<td>✅ Build Products Used by Thousands</td>
-<td>✅ Explore AI and Cloud Technologies</td>
+<td>🔄 Build Products Used by Thousands</td>
+<td>🔄 Explore AI and Cloud Technologies</td>
 </tr>
 </table>
 
-## 🎮 &nbsp;Fun Facts
+<br>
+
+## 🎮  Fun Facts
 
 <div align="center">
 
-🎮 &nbsp;Gaming helps me debug life &nbsp;|&nbsp; ☕ &nbsp;Turning caffeine into code since day one
+🎮  Gaming helps me debug life
+ | 
+☕  Turning caffeine into code since day one
+
 <br>
-🧠 &nbsp;Learning never stops &nbsp;|&nbsp; ⌨️ &nbsp;Ctrl + C and Ctrl + V are still my most loyal teammates
+
+🧠  Learning never stops
+ | 
+⌨️  Ctrl + C and Ctrl + V are still my most loyal teammates
 
 </div>
 
@@ -160,7 +185,7 @@ fun_fact:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,15&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,15&section=footer" width="100%"/>
 
 ### ⚡ Code • Learn • Build • Repeat ⚡
 
